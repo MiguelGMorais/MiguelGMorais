@@ -1,4 +1,4 @@
-## My name is Miguel Morais
+**Welcome to my GitHub!**
 
 <!--
 **MiguelGMorais/MiguelGMorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
