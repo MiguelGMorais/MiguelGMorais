@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- Microeconomics <br>- Incentive Theory<br>- Agent-Based Models (ABM)<br>- Game Theory<br>- Math for Econ<br>-Linear Regressions</p>
+<p align="left">- Microeconomics <br>- Incentive Theory<br>- Agent-Based Models (ABM)<br>- Game Theory<br>- Math for Econ<br>- Linear Regressions</p>
 
 ###
 
